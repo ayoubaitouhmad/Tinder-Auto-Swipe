@@ -6,10 +6,10 @@ You'll need the tampermonkey add on for firefox or tamper monkey for chrome
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr
 
-click new script on tampermonkey copy paste the script save
-
 Go to
 
 https://tinder.com/app/recs
+
+click  tampermonkey icon and go to -> dashboard -> new script  and copy paste the script save
 
 enjoy !!
